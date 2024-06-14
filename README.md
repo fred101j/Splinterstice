@@ -1,6 +1,6 @@
 ## Up For Grabs: Join the Splinterstice Project
 
-### Title: Gain Experiential Learning by Using Splinterstice to Teach Yourself Self-Hosting
+### Gain Experiential Learning by Using Splinterstice to Teach Yourself Self-Hosting
 
 ### Description:
 Splinterstice is a decentralized, web-based IM (instant messenger) designed to offer a safe haven for free speech, avoiding the pitfalls of centralized control and censorship. Its creation is a response to the need for private, secure communication channels that serve the niche online groups of hidden services on Tor and I2P that don't fall under the label of "dark-web" (anything explicitly illicit) or "deep-web" (anything solely for research purposes), whilst upholding quality discourse without interference from mainstream or centralized platforms, in the process.
